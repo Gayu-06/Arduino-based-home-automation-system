@@ -14,6 +14,7 @@ LDR reads ambient light to control automated lighting
 LM35 monitors temperature and triggers fan simulation when a threshold is crossed
 
 #Demonstration videos
+
 #readings
 https://github.com/user-attachments/assets/d99c4bd3-6b72-4e89-bb37-7ebefb783085
 
